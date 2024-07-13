@@ -1,14 +1,20 @@
 {
   "files": {
-    "main.css": "/game_task/static/css/main.31d6cfe0.css",
-    "main.js": "/game_task/static/js/main.6dbd36f1.js",
+    "main.css": "/game_task/static/css/main.38baf3f3.css",
+    "main.js": "/game_task/static/js/main.e67e5965.js",
     "static/js/453.a5a72b74.chunk.js": "/game_task/static/js/453.a5a72b74.chunk.js",
+    "static/media/pic2.png": "/game_task/static/media/pic2.1270dd351c5f8d742171.png",
+    "static/media/pic1.jpg": "/game_task/static/media/pic1.2c5557ca89e75e6ecc44.jpg",
+    "static/media/pic3.jpg": "/game_task/static/media/pic3.54acd31a624a357f8f72.jpg",
+    "static/media/pic.jpg": "/game_task/static/media/pic.02d890fa2a0b7647ca2f.jpg",
     "index.html": "/game_task/index.html",
-    "main.6dbd36f1.js.map": "/game_task/static/js/main.6dbd36f1.js.map",
+    "static/media/menu_close.svg": "/game_task/static/media/menu_close.d7bcdac2acc8f22501cacb6bbabbb700.svg",
+    "main.38baf3f3.css.map": "/game_task/static/css/main.38baf3f3.css.map",
+    "main.e67e5965.js.map": "/game_task/static/js/main.e67e5965.js.map",
     "453.a5a72b74.chunk.js.map": "/game_task/static/js/453.a5a72b74.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.6dbd36f1.js"
+    "static/css/main.38baf3f3.css",
+    "static/js/main.e67e5965.js"
   ]
 }
